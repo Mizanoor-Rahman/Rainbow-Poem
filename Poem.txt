@@ -5,4 +5,5 @@ Green
 Blue 
 Purle
 Black
+Pink
 Those are the colours of rainbow.
